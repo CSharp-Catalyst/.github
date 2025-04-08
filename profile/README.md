@@ -1,6 +1,6 @@
 # Welcome to Our Innovation Hub
 
-Our organization was founded by Krish, Lee, and myself as an after-hours side project to explore new techniques and sharpen our development skills. We believe in challenging the status quo by experimenting with cutting-edge technologies and building solutions that push the boundaries of traditional line-of-business processes.
+Our organization was founded by Krish, Lee, and Allan as an after-hours side project to explore new techniques and sharpen our development skills. We believe in challenging the status quo by experimenting with cutting-edge technologies and building solutions that push the boundaries of traditional line-of-business processes.
 
 ## Our Mission
 
